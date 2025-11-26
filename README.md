@@ -16,3 +16,4 @@
 - **Clearing All Tasks**: Click the "Clear All Tasks" button to remove all tasks.
 - **Progress Tracker**: View the progress of your tasks in the progress tracker.
 
+![image](./src/assets/demo.pngig)
